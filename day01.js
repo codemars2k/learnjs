@@ -2,7 +2,7 @@
 // Basic Array
 
 let listOfNames = ['Moinul', 'Rahman', 'Usama', 'Shagor'];
-console.log(listOfNames); // Temp off
+console.log(listOfNames);
 
 // Push method
 
